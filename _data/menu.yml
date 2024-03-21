@@ -4,11 +4,12 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
+      - title: Home of the Norwalk Ohio Knights of Columbus Council 626
+      - title: Want to Become a Knight?  Join for Free Right Now
+        url: https://www.kofc.org/secure/en/join/join-kofc.html
+      - title: Visit us on Facebook
+        url: https://www.facebook.com/knights626
+      
   - title: all posts
     post_list:
       limit: 5
@@ -18,7 +19,7 @@ entries:
 
   - title: posts by category
     post_list:
-      category: example2
+      category: events
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
@@ -26,13 +27,14 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: For Members Only
     entries:
-      - title: with subitems
+      - title: Dues and Fundraisers
         entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+          - title: Dues Portal
+            url: dues
+          - title: Fundraiser Portal
+            url: fundraiser
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
