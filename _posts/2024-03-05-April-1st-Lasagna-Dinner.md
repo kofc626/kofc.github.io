@@ -1,4 +1,13 @@
-# Lasagna Dinner Fundraiser
+---
+layout: post
+category: events
+---
+
+
+
+
+
+# Lasagna Dinner Fundraiser April 1st
 
 Join us for a delicious lasagna dinner on **Monday, April 1, 2024** from **5:00 PM to 7:00 PM**. Carryout dinners are available for your convenience.
 
